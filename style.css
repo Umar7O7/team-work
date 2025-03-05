@@ -1,0 +1,14 @@
+.item {
+    width: 140px;
+    height: 300px;
+    border-radius: 100px;
+    gap: 50px;
+}
+
+.border{
+    width: 56px;
+    height: 78px;
+    color: black (250,240,240);
+    border-radius: black;
+
+}
