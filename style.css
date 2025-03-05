@@ -19,3 +19,18 @@
     margin: 0 auto;
 
 }
+
+.container {
+    width: 800px;
+    height: 800px;
+    border: solid 5px black;
+    box-shadow: 10px grey;
+    margin: 0 auto;
+}
+.container img {
+    width: 800px;
+    height: 800px;
+    object-fit: cover;
+
+
+}
